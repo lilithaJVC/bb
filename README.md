@@ -1,5 +1,5 @@
 <li>welcome  to the municipal  application, this is the third and the final part of this application </li>
-<li>functional requrements </li>
+<li>functional requirements </li>
 <ol>How to complite an application </ol>
 
 <li>make sure you have visual studio installed into your device</li>
