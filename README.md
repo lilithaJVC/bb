@@ -1,6 +1,14 @@
 <ol>welcome  to the municipal  application, this is the third and the final part of this application </ol>
 <ol>functional requirements </ol>
 
+<li>display a list of the service requests </li>
+<li>allow users to track the status of the submitted service requests </li>
+
+<ol>Non-Functional requirements </ol>
+
+<li>implement tree structures to effectively orginise and retrieve service request  </li>
+<li>imolement minimum heaps to manage complex relationships and optimize the display of service requests </li>
+
 <ol>How to complite an application </ol>
 
 <li>make sure you have visual studio installed into your device</li>
