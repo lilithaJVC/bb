@@ -14,3 +14,13 @@ Min-Heap</ol>
 o	Priority Management: The service requests are inserted into the Min-Heap with their priority. When the system needs to process the highest-priority (e.g., most urgent) service request, it can quickly pop the root element (which has the highest priority).
 o	Example: If the system is managing service requests like water leaks (high priority), broken streetlights (medium priority), and potholes (low priority), the Min-Heap allows the system to immediately access the most urgent request. If RequestID = 1 (Water leak) is the most urgent, it is guaranteed to be processed first.
 
+
+<ol>How to complite an application </ol>
+
+<li>make sure you have visual studio installed into your device</li>
+<li>get acess to my git hub repository </li>
+<li>clone the repository using the link  </li>
+<li>when the  application launches it will   take users to the home page that have 3 menu items </li>
+<li>these methu items consist of report issue , load events and announcements as well as service request status  </li>
+<li>when the user clicks the service request status button from the menu itemit will load all the submitted service requests including their status </li>
+
