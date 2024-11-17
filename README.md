@@ -1,9 +1,9 @@
                                                Explanation of Data structures 
 <ol>The structures that I used are Binary search tree and Mini-Heap</ol>
-Binary Search Tree (BST)
+<li></li>Binary Search Tree (BST)<li></li>
 •	Role: The BST helps store and manage the Service Request Model objects. It helps to organize the requests by their RequestID, this makes it efficient to search for specific requests based on their ID. The key idea behind the BST is that for each node, all elements in the left subtree are smaller, and all elements in the right subtree are greater. This structure ensures that the searching operation that is finding a request by its ID, happens in O (log n) time complexity, where n is the number of requests in the tree.
 
-•	Efficiency Contribution:
+<ol></ol>	Efficiency Contribution:</ol>
 o	Searching: this helps to quickly find any service using the RequestID by using the Search method. Instead of searching through all the requests sequentially, the BST allows you directly jump to the correct node, drastically improving search time.
 o	Example: If a user wants to track a specific service request (for example they want to search for RequestID number 3), the BST will efficiently locate that request, and return its details (Description as well as their Status) without having to search through all requests.
 o	In-Order Traversal: The BST can also be traversed in in-order to retrieve all the requests in ascending order of RequestID. This ensures that the requests are displayed in a sorted manner in the UI.
