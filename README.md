@@ -24,6 +24,10 @@
 <li>the user is able to submit new service request by providing the service request unique number /li>
 <li>the description as well as the status of that service request </li>
 <li>users are also able to track the status of their service request by providing the identifier of that service request by searching them </li>
+
+![service request request ](https://github.com/user-attachments/assets/c80015ef-ad8d-417e-9791-2f270cd18b49)
+
+
                                     
 <ol>The structures that I used are Binary search tree and Mini-Heap</ol>
 
