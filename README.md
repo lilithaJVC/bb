@@ -17,6 +17,10 @@
 <li>when the  application launches it will   take users to the home page that have 3 menu items </li>
 <li>these methu items consist of report issue , load events and announcements as well as service request status  </li>
 <li>when the user clicks the service request status button from the menu itemit will load all the submitted service requests including their status </li>
+
+![HomePage2](https://github.com/user-attachments/assets/5ef1cb39-1229-4c97-a007-0a4795f15ae8)
+
+
 <li>the user is able to submit new service request by providing the service request unique number /li>
 <li>the description as well as the status of that service request </li>
 <li>users are also able to track the status of their service request by providing the identifier of that service request by searching them </li>
