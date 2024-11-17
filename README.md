@@ -1,4 +1,5 @@
-
+<li>t=welcome to minicipal application, this is the third and the final part of this application </li>
+<li>functional requrements </li>
 <ol>How to complite an application </ol>
 
 <li>make sure you have visual studio installed into your device</li>
