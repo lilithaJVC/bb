@@ -1,4 +1,4 @@
-<li>t=welcome to minicipal application, this is the third and the final part of this application </li>
+<li>welcome  to the municipal  application, this is the third and the final part of this application </li>
 <li>functional requrements </li>
 <ol>How to complite an application </ol>
 
