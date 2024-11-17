@@ -12,7 +12,8 @@ Min-Heap</ol>
 •	Role: The Min-Heap is used to manage the priority of service requests. It is used to store requests based on their Priority level, where the highest-priority request (lowest priority number) is always at the root. A Min-Heap ensures that when you need to retrieve or process the highest-priority request, it can be done in O (log n) time.
 •	Efficiency Contribution:
 o	Priority Management: The service requests are inserted into the Min-Heap with their priority. When the system needs to process the highest-priority (e.g., most urgent) service request, it can quickly pop the root element (which has the highest priority).
-o	Example: If the system is managing service requests like water leaks (high priority), broken streetlights (medium priority), and potholes (low priority), the Min-Heap allows the system to immediately access the most urgent request. If RequestID = 1 (Water leak) is the most urgent, it is guaranteed to be processed first.
+<p>Example: If the system is managing service requests like water leaks (high priority), broken streetlights (medium priority), and potholes (low priority), the Min-Heap allows the system to immediately access the most urgent request. If RequestID = 1 (Water leak) is the most urgent, it is guaranteed to be processed first.
+</p>
 
 
 <ol>How to complite an application </ol>
